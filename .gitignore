@@ -54,6 +54,7 @@ nb-configuration.xml
 *.swp
 release.properties
 pom.xml.releaseBackup
+<<<<<<< HEAD
 pom.xml.tag
 .settings
 .settings
@@ -72,3 +73,6 @@ target
 *.factorypath
 *.gitignore
 target
+=======
+pom.xml.tag
+>>>>>>> 6862a3e6b1b2fea2429cb39ee8a654c95fcdfd2a
